@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|c:\\users\\\u043E\u043B\u044F\\source\\repos\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\factory_metod\\factories\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\factories\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\factory_metod\\factories\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\factories\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\factory_metod\\factories\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\factories\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\factory_metod\\factories\\subscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\factories\\subscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\factory_metod\\subscriptions\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\subscriptions\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\factory_metod\\subscriptions\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\subscriptions\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\factory_metod\\subscriptions\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\subscriptions\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\factory_metod\\interfaces\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\interfaces\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Program.cs",
+              "RelativeToolTip": "lab1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:01:16.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebSite.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Factories\\WebSite.cs",
+              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Factories\\WebSite.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Factories\\WebSite.cs",
+              "RelativeToolTip": "lab1\\Factory_metod\\Factories\\WebSite.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:52:31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MobileApp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Factories\\MobileApp.cs",
+              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Factories\\MobileApp.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Factories\\MobileApp.cs",
+              "RelativeToolTip": "lab1\\Factory_metod\\Factories\\MobileApp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:52:52.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerCall.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "RelativeToolTip": "lab1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:53:02.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubscriptionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Factories\\SubscriptionFactory.cs",
+              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Factories\\SubscriptionFactory.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Factories\\SubscriptionFactory.cs",
+              "RelativeToolTip": "lab1\\Factory_metod\\Factories\\SubscriptionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:49:47.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EducationalSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Subscriptions\\EducationalSubscription.cs",
+              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Subscriptions\\EducationalSubscription.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Subscriptions\\EducationalSubscription.cs",
+              "RelativeToolTip": "lab1\\Factory_metod\\Subscriptions\\EducationalSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:07:02.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PremiumSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
+              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
+              "RelativeToolTip": "lab1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:07:22.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DomesticSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
+              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
+              "RelativeToolTip": "lab1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:06:41.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISubscription.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Interfaces\\ISubscription.cs",
+              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Interfaces\\ISubscription.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044F\\source\\repos\\lab1\\lab1\\Factory_metod\\Interfaces\\ISubscription.cs",
+              "RelativeToolTip": "lab1\\Factory_metod\\Interfaces\\ISubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T09:05:39.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
