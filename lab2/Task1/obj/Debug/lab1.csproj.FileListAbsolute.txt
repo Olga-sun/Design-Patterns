@@ -1,7 +1,7 @@
-C:\Users\Оля\source\repos\lab1\lab1\bin\Debug\lab1.exe.config
-C:\Users\Оля\source\repos\lab1\lab1\bin\Debug\lab1.exe
-C:\Users\Оля\source\repos\lab1\lab1\bin\Debug\lab1.pdb
-C:\Users\Оля\source\repos\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
-C:\Users\Оля\source\repos\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
-C:\Users\Оля\source\repos\lab1\lab1\obj\Debug\lab1.exe
-C:\Users\Оля\source\repos\lab1\lab1\obj\Debug\lab1.pdb
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task1\bin\Debug\lab1.exe.config
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task1\bin\Debug\lab1.exe
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task1\bin\Debug\lab1.pdb
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task1\obj\Debug\lab1.exe
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task1\obj\Debug\lab1.pdb
