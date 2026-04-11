@@ -1,14 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Task1",
-    "\\Task2",
     "\\Task2\\Factories",
     "\\Task2\\Interfaces",
     "\\Task2\\Products",
     "\\Task2\\Products\\Balaxy",
     "\\Task2\\Products\\IProne",
-    "\\Task2\\Products\\Kiaomi"
+    "\\Task2\\Products\\Kiaomi",
+    "\\Task3"
   ],
+  "SelectedNode": "\\Task3\\Authenticator.cs",
   "PreviewInSolutionExplorer": false
 }
