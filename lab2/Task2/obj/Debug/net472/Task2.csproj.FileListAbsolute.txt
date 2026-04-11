@@ -1,0 +1,11 @@
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\bin\Debug\net472\Task2.exe.config
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\bin\Debug\net472\Task2.exe
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\bin\Debug\net472\Task2.pdb
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\obj\Debug\net472\Task2.csproj.AssemblyReference.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\obj\Debug\net472\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\obj\Debug\net472\Task2.AssemblyInfoInputs.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\obj\Debug\net472\Task2.AssemblyInfo.cs
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\obj\Debug\net472\Task2.csproj.CoreCompileInputs.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\obj\Debug\net472\Task2.sourcelink.json
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\obj\Debug\net472\Task2.exe
+D:\univer\2_course\Konstruyuvannya_PZ\lab2\Task2\obj\Debug\net472\Task2.pdb
