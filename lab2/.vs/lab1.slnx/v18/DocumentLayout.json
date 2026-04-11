@@ -1,42 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\",
+  "WorkspaceRootPath": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\factory_metod\\factories\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\factories\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\factory_metod\\factories\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\factories\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\factory_metod\\factories\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\factories\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\factory_metod\\factories\\subscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\factories\\subscriptionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\factory_metod\\subscriptions\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\subscriptions\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\factory_metod\\subscriptions\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\subscriptions\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\factory_metod\\subscriptions\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\subscriptions\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\factory_metod\\interfaces\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA437E-DA5A-4D0A-9075-DDE8C76AAD4C}|lab1\\lab1.csproj|solutionrelative:lab1\\factory_metod\\interfaces\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Factories\\ManagerCall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Factory_metod\\Factories\\ManagerCall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Program.cs",
-              "RelativeDocumentMoniker": "lab1\\Program.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Program.cs",
-              "RelativeToolTip": "lab1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Title": "ManagerCall.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "RelativeDocumentMoniker": "Task1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "RelativeToolTip": "Task1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T08:01:16.381Z",
+              "WhenOpened": "2026-03-17T17:35:43.044Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebSite.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Factories\\WebSite.cs",
-              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Factories\\WebSite.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Factories\\WebSite.cs",
-              "RelativeToolTip": "lab1\\Factory_metod\\Factories\\WebSite.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T08:52:31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MobileApp.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Factories\\MobileApp.cs",
-              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Factories\\MobileApp.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Factories\\MobileApp.cs",
-              "RelativeToolTip": "lab1\\Factory_metod\\Factories\\MobileApp.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T08:52:52.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManagerCall.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Factories\\ManagerCall.cs",
-              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Factories\\ManagerCall.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Factories\\ManagerCall.cs",
-              "RelativeToolTip": "lab1\\Factory_metod\\Factories\\ManagerCall.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T08:53:02.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SubscriptionFactory.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Factories\\SubscriptionFactory.cs",
-              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Factories\\SubscriptionFactory.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Factories\\SubscriptionFactory.cs",
-              "RelativeToolTip": "lab1\\Factory_metod\\Factories\\SubscriptionFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T08:49:47.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EducationalSubscription.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Subscriptions\\EducationalSubscription.cs",
-              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Subscriptions\\EducationalSubscription.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Subscriptions\\EducationalSubscription.cs",
-              "RelativeToolTip": "lab1\\Factory_metod\\Subscriptions\\EducationalSubscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:07:02.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PremiumSubscription.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
-              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
-              "RelativeToolTip": "lab1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:07:22.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DomesticSubscription.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
-              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
-              "RelativeToolTip": "lab1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:06:41.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ISubscription.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Interfaces\\ISubscription.cs",
-              "RelativeDocumentMoniker": "lab1\\Factory_metod\\Interfaces\\ISubscription.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab1\\lab1\\Factory_metod\\Interfaces\\ISubscription.cs",
-              "RelativeToolTip": "lab1\\Factory_metod\\Interfaces\\ISubscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:05:39.642Z"
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
