@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Task2",
+    "\\Task2\\Factories",
+    "\\Task2\\Interfaces",
+    "\\Task2\\Products",
+    "\\Task2\\Products\\Balaxy",
+    "\\Task2\\Products\\IProne",
+    "\\Task2\\Products\\Kiaomi"
   ],
-  "SelectedNode": "\\Diagrams",
+  "SelectedNode": "\\Task2\\Products\\Balaxy",
   "PreviewInSolutionExplorer": false
 }
