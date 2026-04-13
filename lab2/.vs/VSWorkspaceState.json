@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Task3",
-    "\\Task4"
+    "\\Task4",
+    "\\Task5",
+    "\\Task5\\Directors",
+    "\\Task5\\Interfaces"
   ],
-  "SelectedNode": "\\Task4\\Task4.csproj",
+  "SelectedNode": "\\Diagrams",
   "PreviewInSolutionExplorer": false
 }
