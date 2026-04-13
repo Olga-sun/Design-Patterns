@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Task4",
+    "\\Task2\\Products",
+    "\\Task2\\Products\\Balaxy",
+    "\\Task2\\Products\\IProne",
+    "\\Task2\\Products\\Kiaomi",
     "\\Task5",
+    "\\Task5\\Builders",
     "\\Task5\\Directors",
-    "\\Task5\\Interfaces"
+    "\\Task5\\Interfaces",
+    "\\Task5\\Products"
   ],
-  "SelectedNode": "\\Diagrams",
+  "SelectedNode": "\\Литвинчук Ольга ІПЗ-24-3 Лаб 2.pdf",
   "PreviewInSolutionExplorer": false
 }
