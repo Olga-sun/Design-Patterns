@@ -1,0 +1,15 @@
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\bin\Debug\net8.0\StructuralPatternsLab.exe
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\bin\Debug\net8.0\StructuralPatternsLab.deps.json
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\bin\Debug\net8.0\StructuralPatternsLab.runtimeconfig.json
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\bin\Debug\net8.0\StructuralPatternsLab.dll
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\bin\Debug\net8.0\StructuralPatternsLab.pdb
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\StructuralPatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\StructuralPatternsLab.AssemblyInfoInputs.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\StructuralPatternsLab.AssemblyInfo.cs
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\StructuralPatternsLab.csproj.CoreCompileInputs.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\StructuralPatternsLab.sourcelink.json
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\StructuralPatternsLab.dll
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\refint\StructuralPatternsLab.dll
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\StructuralPatternsLab.pdb
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\StructuralPatternsLab.genruntimeconfig.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab3\Task1\obj\Debug\net8.0\ref\StructuralPatternsLab.dll

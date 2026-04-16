@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Adapters\\FileLoggerAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Adapters\\FileLoggerAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Utils\\FileWriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Utils\\FileWriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Loggers\\Logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Loggers\\Logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\StructuralPatternsLab.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\StructuralPatternsLab.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Interfaces\\ILogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Interfaces\\ILogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:11:12.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileLoggerAdapter.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Adapters\\FileLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "Task1\\Adapters\\FileLoggerAdapter.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Adapters\\FileLoggerAdapter.cs",
+              "RelativeToolTip": "Task1\\Adapters\\FileLoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:11:01.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Utils\\FileWriter.cs",
+              "RelativeDocumentMoniker": "Task1\\Utils\\FileWriter.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Utils\\FileWriter.cs",
+              "RelativeToolTip": "Task1\\Utils\\FileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:10:43.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Loggers\\Logger.cs",
+              "RelativeDocumentMoniker": "Task1\\Loggers\\Logger.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Loggers\\Logger.cs",
+              "RelativeToolTip": "Task1\\Loggers\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:10:24.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StructuralPatternsLab.csproj",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\StructuralPatternsLab.csproj",
+              "RelativeDocumentMoniker": "Task1\\StructuralPatternsLab.csproj",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\StructuralPatternsLab.csproj",
+              "RelativeToolTip": "Task1\\StructuralPatternsLab.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T12:09:54.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "Task1\\Interfaces\\ILogger.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "Task1\\Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:06:20.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

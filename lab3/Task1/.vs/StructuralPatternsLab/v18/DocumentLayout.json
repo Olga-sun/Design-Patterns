@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task6\\task6demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task6\\task6demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task6\\flyweight\\flyweightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task6\\flyweight\\flyweightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task6\\flyweight\\lightelementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task6\\flyweight\\lightelementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task5\\task5demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task5\\task5demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task5\\nodes\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task5\\nodes\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task5\\nodes\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task5\\nodes\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task5\\nodes\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task5\\nodes\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task5\\enums\\lighthtmlenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task5\\enums\\lighthtmlenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task4\\task4demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task4\\task4demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task4\\proxies\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task4\\proxies\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task4\\proxies\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task4\\proxies\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task4\\readers\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task4\\readers\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task4\\interfaces\\itextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task4\\interfaces\\itextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task3\\task3demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task3\\task3demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task3\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task3\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task3\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task3\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task3\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task3\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task3\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task3\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task3\\renderers\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task3\\renderers\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task3\\renderers\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task3\\renderers\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task3\\interfaces\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task3\\interfaces\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task2\\task2demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task2\\task2demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task1\\task1demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task1\\task1demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task2\\heroes\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task2\\heroes\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|d:\\univer\\2_course\\konstruyuvannya_pz\\lab3\\task1\\task2\\interfaces\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B92FFE-9B86-CADB-F1A3-CACC875E0269}|StructuralPatternsLab.csproj|solutionrelative:task2\\interfaces\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task6Demo.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task6\\Task6Demo.cs",
+              "RelativeDocumentMoniker": "Task6\\Task6Demo.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task6\\Task6Demo.cs",
+              "RelativeToolTip": "Task6\\Task6Demo.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:16:28.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlyweightElementNode.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task6\\Flyweight\\FlyweightElementNode.cs",
+              "RelativeDocumentMoniker": "Task6\\Flyweight\\FlyweightElementNode.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task6\\Flyweight\\FlyweightElementNode.cs",
+              "RelativeToolTip": "Task6\\Flyweight\\FlyweightElementNode.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:13:59.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:02:47.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightElementFactory.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task6\\Flyweight\\LightElementFactory.cs",
+              "RelativeDocumentMoniker": "Task6\\Flyweight\\LightElementFactory.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task6\\Flyweight\\LightElementFactory.cs",
+              "RelativeToolTip": "Task6\\Flyweight\\LightElementFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:13:04.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task5Demo.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Task5Demo.cs",
+              "RelativeDocumentMoniker": "Task5\\Task5Demo.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Task5Demo.cs",
+              "RelativeToolTip": "Task5\\Task5Demo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:55:03.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Nodes\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Task5\\Nodes\\LightElementNode.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Nodes\\LightElementNode.cs",
+              "RelativeToolTip": "Task5\\Nodes\\LightElementNode.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:53:16.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Nodes\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "Task5\\Nodes\\LightTextNode.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Nodes\\LightTextNode.cs",
+              "RelativeToolTip": "Task5\\Nodes\\LightTextNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:52:28.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Nodes\\LightNode.cs",
+              "RelativeDocumentMoniker": "Task5\\Nodes\\LightNode.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Nodes\\LightNode.cs",
+              "RelativeToolTip": "Task5\\Nodes\\LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:51:43.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LightHTMLEnums.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Enums\\LightHTMLEnums.cs",
+              "RelativeDocumentMoniker": "Task5\\Enums\\LightHTMLEnums.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task5\\Enums\\LightHTMLEnums.cs",
+              "RelativeToolTip": "Task5\\Enums\\LightHTMLEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:50:51.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task4Demo.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Task4Demo.cs",
+              "RelativeDocumentMoniker": "Task4\\Task4Demo.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Task4Demo.cs",
+              "RelativeToolTip": "Task4\\Task4Demo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:37:33.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmartTextReaderLocker.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Proxies\\SmartTextReaderLocker.cs",
+              "RelativeDocumentMoniker": "Task4\\Proxies\\SmartTextReaderLocker.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Proxies\\SmartTextReaderLocker.cs",
+              "RelativeToolTip": "Task4\\Proxies\\SmartTextReaderLocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:37:10.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmartTextChecker.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Proxies\\SmartTextChecker.cs",
+              "RelativeDocumentMoniker": "Task4\\Proxies\\SmartTextChecker.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Proxies\\SmartTextChecker.cs",
+              "RelativeToolTip": "Task4\\Proxies\\SmartTextChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:36:47.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmartTextReader.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Readers\\SmartTextReader.cs",
+              "RelativeDocumentMoniker": "Task4\\Readers\\SmartTextReader.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Readers\\SmartTextReader.cs",
+              "RelativeToolTip": "Task4\\Readers\\SmartTextReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:36:09.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITextReader.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Interfaces\\ITextReader.cs",
+              "RelativeDocumentMoniker": "Task4\\Interfaces\\ITextReader.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task4\\Interfaces\\ITextReader.cs",
+              "RelativeToolTip": "Task4\\Interfaces\\ITextReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:35:27.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Task3Demo.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Task3Demo.cs",
+              "RelativeDocumentMoniker": "Task3\\Task3Demo.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Task3Demo.cs",
+              "RelativeToolTip": "Task3\\Task3Demo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:24:28.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Task3\\Shapes\\Triangle.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "Task3\\Shapes\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:21:07.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "Task3\\Shapes\\Square.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Shapes\\Square.cs",
+              "RelativeToolTip": "Task3\\Shapes\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:20:17.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Task3\\Shapes\\Circle.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Task3\\Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:20:04.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "Task3\\Shapes\\Shape.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Shapes\\Shape.cs",
+              "RelativeToolTip": "Task3\\Shapes\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:19:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RasterRenderer.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Renderers\\RasterRenderer.cs",
+              "RelativeDocumentMoniker": "Task3\\Renderers\\RasterRenderer.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Renderers\\RasterRenderer.cs",
+              "RelativeToolTip": "Task3\\Renderers\\RasterRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:18:32.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VectorRenderer.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Renderers\\VectorRenderer.cs",
+              "RelativeDocumentMoniker": "Task3\\Renderers\\VectorRenderer.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Renderers\\VectorRenderer.cs",
+              "RelativeToolTip": "Task3\\Renderers\\VectorRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:18:08.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Interfaces\\Renderer.cs",
+              "RelativeDocumentMoniker": "Task3\\Interfaces\\Renderer.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task3\\Interfaces\\Renderer.cs",
+              "RelativeToolTip": "Task3\\Interfaces\\Renderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:17:06.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Task1Demo.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task1\\Task1Demo.cs",
+              "RelativeDocumentMoniker": "Task1\\Task1Demo.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task1\\Task1Demo.cs",
+              "RelativeToolTip": "Task1\\Task1Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T10:58:39.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Task2Demo.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task2\\Task2Demo.cs",
+              "RelativeDocumentMoniker": "Task2\\Task2Demo.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task2\\Task2Demo.cs",
+              "RelativeToolTip": "Task2\\Task2Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T10:47:26.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task2\\Heroes\\Warrior.cs",
+              "RelativeDocumentMoniker": "Task2\\Heroes\\Warrior.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task2\\Heroes\\Warrior.cs",
+              "RelativeToolTip": "Task2\\Heroes\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T10:24:55.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task2\\Interfaces\\IHero.cs",
+              "RelativeDocumentMoniker": "Task2\\Interfaces\\IHero.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab3\\Task1\\Task2\\Interfaces\\IHero.cs",
+              "RelativeToolTip": "Task2\\Interfaces\\IHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T10:22:07.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
