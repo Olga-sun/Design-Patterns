@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Task1",
-    "\\Task1\\Adapters",
-    "\\Task1\\Loggers",
-    "\\Task1\\Utils"
+    "\\Task1\\Task6\\Flyweight"
   ],
-  "SelectedNode": "\\Task1\\StructuralPatternsLab.csproj",
+  "SelectedNode": "\\Task1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -57,10 +57,11 @@ namespace StructuralPatternsLab
                     case "0":
                         return; // Вихід з програми
                     default:
-                        Console.WriteLine("Невірний вибір. Спробуйте ще раз.");
+                        Console.WriteLine("Невірний вибір. Спробуйте ще раз .");
                         break;
                 }
             }
         }
     }
 }
+//123

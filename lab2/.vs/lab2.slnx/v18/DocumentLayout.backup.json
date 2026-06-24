@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Builders\\HeroBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task5\\Builders\\HeroBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Builders\\EnemyBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task5\\Builders\\EnemyBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Factories\\ManagerCall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Factory_metod\\Factories\\ManagerCall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Interfaces\\ISubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Factory_metod\\Interfaces\\ISubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task2\\Task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Directors\\Director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task5\\Directors\\Director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Builders\\HeroBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task5\\Builders\\HeroBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Builders\\EnemyBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task5\\Builders\\EnemyBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,59 +158,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Program.cs",
-              "RelativeDocumentMoniker": "Task5\\Program.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Program.cs",
-              "RelativeToolTip": "Task5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:26:03.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Character.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Products\\Character.cs",
-              "RelativeDocumentMoniker": "Task5\\Products\\Character.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Products\\Character.cs",
-              "RelativeToolTip": "Task5\\Products\\Character.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Title": "EnemyBuilder.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Builders\\EnemyBuilder.cs",
+              "RelativeDocumentMoniker": "Task5\\Builders\\EnemyBuilder.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Builders\\EnemyBuilder.cs",
+              "RelativeToolTip": "Task5\\Builders\\EnemyBuilder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:25:46.082Z",
+              "WhenOpened": "2026-04-13T09:25:20.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICharacterBuilder.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Interfaces\\ICharacterBuilder.cs",
-              "RelativeDocumentMoniker": "Task5\\Interfaces\\ICharacterBuilder.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Interfaces\\ICharacterBuilder.cs",
-              "RelativeToolTip": "Task5\\Interfaces\\ICharacterBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:25:40.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Director.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Directors\\Director.cs",
-              "RelativeDocumentMoniker": "Task5\\Directors\\Director.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Directors\\Director.cs",
-              "RelativeToolTip": "Task5\\Directors\\Director.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:25:34.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "HeroBuilder.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Builders\\HeroBuilder.cs",
               "RelativeDocumentMoniker": "Task5\\Builders\\HeroBuilder.cs",
@@ -199,67 +184,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EnemyBuilder.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Builders\\EnemyBuilder.cs",
-              "RelativeDocumentMoniker": "Task5\\Builders\\EnemyBuilder.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Builders\\EnemyBuilder.cs",
-              "RelativeToolTip": "Task5\\Builders\\EnemyBuilder.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PremiumSubscription.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
+              "RelativeDocumentMoniker": "Task1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
+              "RelativeToolTip": "Task1\\Factory_metod\\Subscriptions\\PremiumSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:25:20.128Z",
+              "WhenOpened": "2026-04-27T06:32:04.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomesticSubscription.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
+              "RelativeDocumentMoniker": "Task1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
+              "RelativeToolTip": "Task1\\Factory_metod\\Subscriptions\\DomesticSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T06:31:48.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerCall.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "RelativeDocumentMoniker": "Task1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "RelativeToolTip": "Task1\\Factory_metod\\Factories\\ManagerCall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T06:31:25.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task4\\Program.cs",
-              "RelativeDocumentMoniker": "Task4\\Program.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task4\\Program.cs",
-              "RelativeToolTip": "Task4\\Program.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAUwHQAAAABAAAAAAAAAA==",
+              "Title": "ISubscription.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Interfaces\\ISubscription.cs",
+              "RelativeDocumentMoniker": "Task1\\Factory_metod\\Interfaces\\ISubscription.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Factory_metod\\Interfaces\\ISubscription.cs",
+              "RelativeToolTip": "Task1\\Factory_metod\\Interfaces\\ISubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:22:40.331Z",
+              "WhenOpened": "2026-04-27T06:31:18.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Task3.csproj",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Task3.csproj",
-              "RelativeDocumentMoniker": "Task3\\Task3.csproj",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Task3.csproj",
-              "RelativeToolTip": "Task3\\Task3.csproj",
+              "Title": "Task2.csproj",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Task2.csproj",
+              "RelativeDocumentMoniker": "Task2\\Task2.csproj",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Task2.csproj",
+              "RelativeToolTip": "Task2\\Task2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-13T09:21:39.36Z",
+              "WhenOpened": "2026-04-27T05:55:25.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Program.cs",
-              "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Program.cs",
-              "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwC8AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:21:29.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Authenticator.cs",
-              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Authenticator.cs",
-              "RelativeDocumentMoniker": "Task3\\Authenticator.cs",
-              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Authenticator.cs",
-              "RelativeToolTip": "Task3\\Authenticator.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:20:59.508Z",
+              "WhenOpened": "2026-04-27T05:53:16.935Z",
               "EditorCaption": ""
             },
             {
@@ -267,12 +265,105 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:26:03.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Products\\Character.cs",
+              "RelativeDocumentMoniker": "Task5\\Products\\Character.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Products\\Character.cs",
+              "RelativeToolTip": "Task5\\Products\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:25:46.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICharacterBuilder.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Interfaces\\ICharacterBuilder.cs",
+              "RelativeDocumentMoniker": "Task5\\Interfaces\\ICharacterBuilder.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Interfaces\\ICharacterBuilder.cs",
+              "RelativeToolTip": "Task5\\Interfaces\\ICharacterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:25:40.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Directors\\Director.cs",
+              "RelativeDocumentMoniker": "Task5\\Directors\\Director.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task5\\Directors\\Director.cs",
+              "RelativeToolTip": "Task5\\Directors\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:25:34.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:22:40.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Task3.csproj",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Task3.csproj",
+              "RelativeDocumentMoniker": "Task3\\Task3.csproj",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Task3.csproj",
+              "RelativeToolTip": "Task3\\Task3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T09:21:39.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:21:29.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Authenticator.cs",
+              "RelativeDocumentMoniker": "Task3\\Authenticator.cs",
+              "ToolTip": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task3\\Authenticator.cs",
+              "RelativeToolTip": "Task3\\Authenticator.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:20:59.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
@@ -280,12 +371,11 @@
               "RelativeToolTip": "Task2\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T08:41:22.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T08:41:22.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "KiaomiSmartphone.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\Kiaomi\\KiaomiSmartphone.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\Kiaomi\\KiaomiSmartphone.cs",
@@ -297,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "KiaomiNetbook.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\Kiaomi\\KiaomiNetbook.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\Kiaomi\\KiaomiNetbook.cs",
@@ -309,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "KiaomiLaptop.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\Kiaomi\\KiaomiLaptop.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\Kiaomi\\KiaomiLaptop.cs",
@@ -317,12 +407,11 @@
               "RelativeToolTip": "Task2\\Products\\Kiaomi\\KiaomiLaptop.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T08:41:00.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T08:41:00.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "KiaomiEBook.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\Kiaomi\\KiaomiEBook.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\Kiaomi\\KiaomiEBook.cs",
@@ -334,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "IProneSmartphone.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\IProne\\IProneSmartphone.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\IProne\\IProneSmartphone.cs",
@@ -346,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "IProneNetbook.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\IProne\\IProneNetbook.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\IProne\\IProneNetbook.cs",
@@ -358,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "IProneLaptop.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\IProne\\IProneLaptop.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\IProne\\IProneLaptop.cs",
@@ -370,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "IProneEBook.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\IProne\\IProneEBook.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\IProne\\IProneEBook.cs",
@@ -382,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "BalaxySmartphone.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\Balaxy\\BalaxySmartphone.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\Balaxy\\BalaxySmartphone.cs",
@@ -394,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "BalaxyNetbook.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\Balaxy\\BalaxyNetbook.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\Balaxy\\BalaxyNetbook.cs",
@@ -406,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "BalaxyLaptop.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\Balaxy\\BalaxyLaptop.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\Balaxy\\BalaxyLaptop.cs",
@@ -418,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "BalaxyEBook.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Products\\Balaxy\\BalaxyEBook.cs",
               "RelativeDocumentMoniker": "Task2\\Products\\Balaxy\\BalaxyEBook.cs",
@@ -430,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "ISmartphone.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Interfaces\\ISmartphone.cs",
               "RelativeDocumentMoniker": "Task2\\Interfaces\\ISmartphone.cs",
@@ -442,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "INetbook.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Interfaces\\INetbook.cs",
               "RelativeDocumentMoniker": "Task2\\Interfaces\\INetbook.cs",
@@ -454,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "ILaptop.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Interfaces\\ILaptop.cs",
               "RelativeDocumentMoniker": "Task2\\Interfaces\\ILaptop.cs",
@@ -466,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "IEBook.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Interfaces\\IEBook.cs",
               "RelativeDocumentMoniker": "Task2\\Interfaces\\IEBook.cs",
@@ -478,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "IDeviceFactory.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Interfaces\\IDeviceFactory.cs",
               "RelativeDocumentMoniker": "Task2\\Interfaces\\IDeviceFactory.cs",
@@ -490,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "KiaomiFactory.cs",
               "DocumentMoniker": "D:\\univer\\2_course\\Konstruyuvannya_PZ\\lab2\\Task2\\Factories\\KiaomiFactory.cs",
               "RelativeDocumentMoniker": "Task2\\Factories\\KiaomiFactory.cs",
