@@ -35,8 +35,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Handlers\" />
+    <Compile Include="Handlers\BaseHandle.cs" />
+    <Compile Include="Handlers\CallRequestHandler.cs" />
+    <Compile Include="Handlers\TariffHandler.cs" />
+    <Compile Include="Program.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
