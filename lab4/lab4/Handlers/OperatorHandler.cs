@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace lab4.Handlers
 {
-    public class TariffHandler : BaseHandler
+    public class OperatorHandler : BaseHandler
+
     {
         public override void Handle()
-
-        { 
-            Console.WriteLine("Якщо ви хочете змінити тариф натисніть 1 інакше 0");
+        {
+Console.WriteLine("Якщо ви хочете зв'язатися з оператором натисніть 1 інакше 0");
             string choice = Console.ReadLine();
             if (choice != null)
             {
                 if (choice == "1")
                 {
-                    Console.WriteLine("Ваш тариф змінено");
+                    Console.WriteLine("Зв'язуємося з оператором підтримкою");
                 }
                 else if (choice == "0")
                 {
@@ -26,12 +26,12 @@ namespace lab4.Handlers
                         _nextHandler.Handle();
                     }
                     else
-                    {
-                      
-                        Console.WriteLine("На жаль, ми не змогли розпізнати ваш запит. Зв'яжіться з нами пізніше.");
-                    }
+{
+    Console.WriteLine("На жаль, ми не змогли розпізнати ваш запит. Зв'яжіться з нами пізніше.");
+}
                 }
             }
-        }
     }
 }
+}
+        

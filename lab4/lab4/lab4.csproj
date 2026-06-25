@@ -39,7 +39,9 @@
   <ItemGroup>
     <Compile Include="Handlers\BaseHandle.cs" />
     <Compile Include="Handlers\CallRequestHandler.cs" />
+    <Compile Include="Handlers\OperatorHandler.cs" />
     <Compile Include="Handlers\TariffHandler.cs" />
+    <Compile Include="Handlers\TechSupportHandler.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
