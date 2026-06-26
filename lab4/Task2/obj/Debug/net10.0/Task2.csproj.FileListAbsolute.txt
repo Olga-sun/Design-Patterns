@@ -1,0 +1,5 @@
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.AssemblyInfoInputs.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.AssemblyInfo.cs
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.csproj.CoreCompileInputs.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.sourcelink.json
