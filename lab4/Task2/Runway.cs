@@ -1,19 +1,13 @@
-﻿namespace DesignPatterns.Mediator
+﻿using System;
+
+namespace DesignPatterns.Mediator
 {
-    class Runway
+    public class Runway
     {
         public readonly Guid Id = Guid.NewGuid();
-        public Aircraft? IsBusyWithAircraft;
 
-        public bool CheckIsActive()
-        {
-            bool result = false;
-            if (this.IsBusyWithAircraft != null)
-            {
-                result = this.IsBusyWithAircraft.IsTakingOff;
-            }
-            return result;
-        }
+        // Ось наша нова змінна статусу!
+        public bool IsBusy = false;
 
         public void HighLightRed()
         {

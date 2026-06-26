@@ -3,3 +3,13 @@ D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.Assembl
 D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.AssemblyInfo.cs
 D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.csproj.CoreCompileInputs.cache
 D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.sourcelink.json
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\bin\Debug\net10.0\Task2.exe
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\bin\Debug\net10.0\Task2.deps.json
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\bin\Debug\net10.0\Task2.runtimeconfig.json
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\bin\Debug\net10.0\Task2.dll
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\bin\Debug\net10.0\Task2.pdb
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.dll
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\refint\Task2.dll
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.pdb
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\Task2\obj\Debug\net10.0\ref\Task2.dll
