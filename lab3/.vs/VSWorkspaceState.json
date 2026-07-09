@@ -2,8 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Task1",
-    "\\Task1\\Task6\\Flyweight"
+    "\\Task1\\Task3\\Interfaces",
+    "\\Task1\\Task3\\Renderers",
+    "\\Task1\\Task3\\Shapes",
+    "\\Task1\\Task5",
+    "\\Task1\\Task5\\Enums",
+    "\\Task1\\Task5\\Nodes"
   ],
-  "SelectedNode": "\\Task1\\Program.cs",
+  "SelectedNode": "\\Task1\\Task5\\Enums\\LightHTMLEnums.cs",
   "PreviewInSolutionExplorer": false
 }
