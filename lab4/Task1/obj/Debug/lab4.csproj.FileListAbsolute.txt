@@ -1,0 +1,7 @@
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\lab4\bin\Debug\lab4.exe.config
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\lab4\bin\Debug\lab4.exe
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\lab4\bin\Debug\lab4.pdb
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\lab4\obj\Debug\lab4.exe
+D:\univer\2_course\Konstruyuvannya_PZ\lab4\lab4\obj\Debug\lab4.pdb
